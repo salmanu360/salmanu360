@@ -1,16 +1,25 @@
 # Hi 👋 I'm Muhammad Suliman
 
-Senior Full-Stack Engineer with 10+ years of experience building scalable web platforms, APIs, and enterprise systems.  
-Passionate about clean architecture, problem solving, and building reliable digital products.
+Senior Full-Stack Software Engineer with **10+ years of experience** designing and building scalable web platforms, APIs, and enterprise systems. I specialize in modern JavaScript ecosystems and robust backend architectures, delivering reliable digital products across healthcare, enterprise, and research platforms.
 
-📍 Sundsvall, Sweden  
-💼 Open to Software Engineer / Full-Stack opportunities  
+Currently based in **Sundsvall, Sweden**, I focus on building scalable systems, clean architectures, and high-performance applications that create real business value.
+
+---
+
+## About Me
+
+- 💻 Senior Full-Stack Engineer with **10+ years of professional experience**
+- ⚙️ Expert in building **scalable web platforms, APIs, and enterprise systems**
+- 🧠 Published researcher in **Machine Learning & Artificial Intelligence**
+- 👨‍💻 Experienced **Team Lead mentoring developers and delivering complex systems**
+- 🌍 Experience working with **international teams and global platforms**
+- 🚀 Passionate about **modern architecture, AI tools, and performance optimization**
 
 ---
 
 ## Tech Stack
 
-**Frontend**
+### Frontend
 - JavaScript
 - TypeScript
 - React
@@ -18,54 +27,67 @@ Passionate about clean architecture, problem solving, and building reliable digi
 - HTML5
 - CSS
 
-**Backend**
+### Backend
 - Node.js
 - Laravel
 - Yii / Yii2
-- REST APIs
+- CakePHP
+- PHP
+- Strapi
 
-**Databases**
+### APIs & Integration
+- REST APIs
+- GraphQL
+- Microservices Architecture
+
+### Databases
 - PostgreSQL
 - MySQL
 - MongoDB
 
-**Other Tools**
+### AI & ML
+- Python
+- Machine Learning
+- LangChain
+
+### DevOps & Tools
 - Docker
 - Git
 - Linux
 - CI/CD
+- Jira
 - Agile Development
 
 ---
 
-## Professional Experience
+## Professional Projects
 
-I have worked on multiple production systems across different industries including:
+### BCVA Clinical Data Platform
+A global clinical research platform used in ophthalmology studies for standardized visual acuity data collection and management across research centers.
 
-- Healthcare platforms connecting hospitals and patients
-- Enterprise vendor management systems
-- E-commerce platforms
-- Clinical research data platforms
+### EyeSol Healthcare Platform
+A digital healthcare system supporting eye-care services, clinical workflows, and patient data management.
 
-Most production systems are in private company repositories due to confidentiality.
+### OCAP Platform
+Enterprise platform designed for operational data management and workflow automation across complex organizational environments.
 
----
+### SimplifyVMS – Vendor Management System
+AI-driven Vendor Management System designed to streamline contingent workforce management, vendor onboarding, compliance tracking, and real-time analytics.
 
-## Interests
+### Inlife.pk Healthcare Platform
+A digital platform connecting patients with healthcare providers and services, enabling accessible healthcare support and management.
 
-- Scalable backend architecture
-- API design and performance optimization
-- Clean architecture
-- Distributed systems
+### OliveCliq Healthcare System
+A cloud-based healthcare platform serving hospitals, clinics, and laboratories with integrated digital healthcare solutions.
 
 ---
 
 ## Research & Publications
 
-I have also published research in **Machine Learning and Artificial Intelligence**, including work on medical image classification and cybersecurity.
+Published research in **Machine Learning, AI, Computer Vision, and Cybersecurity** with peer-reviewed international publications.
 
-Google Scholar:  
-https://scholar.google.com/citations?user=kf1NfZMAAAAJ&hl=en
+🎓 Google Scholar  
+https://scholar.google.com/citations?user=kf1NfZMAAAAJ
 
 ---
 
@@ -79,4 +101,4 @@ https://scholar.google.com/citations?user=kf1NfZMAAAAJ&hl=en
 
 ---
 
-⭐ Always interested in collaborating on innovative software projects and solving complex technical challenges.
+⭐ Always interested in building innovative systems, solving complex technical challenges, and collaborating on impactful software projects.
