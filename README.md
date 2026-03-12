@@ -27,6 +27,12 @@ Senior Full-Stack Engineer with 10+ years of experience building scalable web ap
 - Docker
 
 ---
+## Research & Publications
+
+I have also published research in machine learning and AI, including work on medical image classification and cybersecurity.
+
+Google Scholar:
+https://scholar.google.com/citations?user=kf1NfZMAAAAJ&hl=en
 
 ## Professional Experience
 
