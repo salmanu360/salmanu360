@@ -29,14 +29,17 @@ Currently based in **Sundsvall, Sweden**, I focus on building scalable systems, 
 
 ### Backend
 - Node.js
+- Express.js
 - Laravel
 - Yii / Yii2
 - CakePHP
 - PHP
 - Strapi
+- .NET / ASP.NET Core
 
 ### APIs & Integration
 - REST APIs
+- Fast API
 - GraphQL
 - Microservices Architecture
 
