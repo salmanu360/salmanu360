@@ -97,7 +97,7 @@ https://scholar.google.com/citations?user=kf1NfZMAAAAJ
 📞 Phone: +46 790 791 052  
 💼 LinkedIn: https://www.linkedin.com/in/salmanu360/  
 💻 GitHub: https://github.com/salmanu360  
-📍 Location: Sundsvall, Sweden
+📍 Location: Stockholm, Sweden
 
 ---
 
